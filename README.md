@@ -1,6 +1,6 @@
-# Fractional contracts
+# Quantum Vault contracts
 
-This is a simple FNFT project.
+Lux Quantum Vault contracts require a post quantum safe signature for a successful transaction, ensure post quantum safety.
 
 ## Settings
 This is a generic settings contract to be owned by governance. It is gated by some high and low boundary values. It allows for governance to set parameters for all Token Vaults.
